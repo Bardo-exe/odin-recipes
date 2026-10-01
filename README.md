@@ -7,5 +7,8 @@ Made my first mistake, for some reason the I thought that if the original index.
 "../index.html instead was modified"
 That's why I didn't git add that file name because seemed odd to me but well now I'm able to see the changes I made being updated in github which it's pretty cool! 
 Now I see why the terminal was showing me that... well I'm learning and shouldn't be so hard on myself. the "problem" was that since I was in /repos/odin-recipes/recipes the terminal was telling me that the file index.html which was in another directorie was modified. well learned something new today! 
-10/1/26 16:54 Bardo
+    10/1/26 16:54 Bardo
 Today I've finished the first page and now I'll finish the next two pages
+
+    18:23 Bardo 
+Finished the second page! Got a little occupied with home chores.
