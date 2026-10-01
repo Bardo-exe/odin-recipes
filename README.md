@@ -12,3 +12,5 @@ Today I've finished the first page and now I'll finish the next two pages
 
     18:23 Bardo 
 Finished the second page! Got a little occupied with home chores.
+    18:39 Bardo
+All done! 
